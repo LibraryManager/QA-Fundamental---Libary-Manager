@@ -3,7 +3,7 @@
 #### 1. Team members
 | Username |  Name | Position|
 | ------------- | ------------- | ------------- |
-| bay11  | Bay Trump  | Developer| 
+| bayt11 | Bay Trump  | Developer| 
 | bootst  | Boot Strapov  |Lead of Design and Art |
-| lelyap  | Lelya Penka |  Project manager| 
+| LelqPenka | Lelya Penka |  Project manager| 
 | stef217  | Stefan Dimitrov |  QA| 
